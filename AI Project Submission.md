@@ -1,4 +1,4 @@
-AI Project Submission
+# AI Project Submission
 
 1) Model Submission - Teachablemachine
 1.1 Model description and use case is given
