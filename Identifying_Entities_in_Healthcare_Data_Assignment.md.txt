@@ -1,0 +1,89 @@
+# Identifying Entities in Healthcare Data Assignment 
+
+1. Data Preprocessing
+
+the sentences has been formed correctly and printed the 5 sentences that have been formed
+
+1.2 Count the number of sentences and label lines in train and test dataset
+
+You have counted the number of sentences in train and test data
+the number of sentences in train/test dataset is equal to the number of lines of labels in train/test dataset
+
+
+2. Concept Identification
+
+
+2.1 Extract the tokens and their frequency which have NOUN or PROPN PoS tag
+
+You have extracted all the tokens with NOUN and PROPN as their PoS tags with their frequency.
+You have printed the top 25 most common tokens with NOUN and PROPN as their PoS tags.
+
+
+3. Defining features for CRF
+
+
+3.1 Define atleast 8 features
+
+
+You have defined features with PoS tag as one of the features
+You have used the previous word to define the features
+
+
+3.2 Mark the begining and end word as a feature
+
+
+You have correctly marked the beginning and the end words in a sentence
+
+
+4. Getting the features and the labels of sentences.
+
+
+4.1 Get the features' value of sentence and get the labels of the sentence
+
+
+You have correctly defined the function/steps to get the features' value of each token in a sentence
+You have correctly defined the function/steps to get the list of a given preprocessed label line that learner has created earlier
+
+
+5. Define input and target variables
+
+5.1 Define the input and the target variables for CRF model building
+
+
+You have defined the features' values for each sentences as input variable for CRF model in test & train dataset.
+You have defined the labels as the target variable for test & train dataset.
+
+
+6. Build the model
+
+6.1 Build the CRF model
+
+You have built the CRF model . . . . . . . . . . . . ..  
+
+
+7. Evaluation
+
+7.1 Predict the labels for the test dataset using the pre built CRF model
+
+You have predicted the labels of each sentences in test dataset
+
+
+7.2 Evaluate the predictions using f1 score.
+
+
+You have f1 score >85% . . . . . . . . . . . . . .
+
+
+8. Identify the Diseases and Treatment using Custom NER
+
+
+8.1 Create the logic to get all the predicted treatments (T) labels corresponding to each disease (D) label in the test dataset and predict the treatment for a disease.
+
+
+You have build the code or logic to get all the predicted treatment (T) labels corresponding to each disease (D) label in the test dataset
+
+You have predicted the treatment for the disease name 'hereditary retinoblastoma' as 'radiotherapy'.
+
+
+
+
