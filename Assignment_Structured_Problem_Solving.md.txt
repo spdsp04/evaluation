@@ -1,0 +1,112 @@
+# Assignment - Structured Problem Solving
+
+1. Case Study 1
+
+1.1 5 WHY analysis Issue Tree Framework
+
+the root cause under the given questions are correct . . . . . . . . . . 
+
+
+1.2 HFACs - Issue Tree Framework
+
+
+Answers are correct along with proper explanation . . . . . . . . . .
+
+
+2. Case Study 2
+
+
+2.1 Conversation - SPIN Selling Framework
+
+
+the intent of the question matches with the one given in the solution . . . . . .
+
+
+3. Case Study 3
+
+
+3.1 7Ps - Product
+
+the correct answer is given for question asked along with proper justification . . . . . .. . 
+
+
+3.2 7Ps - Price
+
+
+the correct answer is given for question asked along with proper justification . . . . . .. . 
+
+
+3.3 7Ps - Place
+
+the correct answer is given for question asked along with proper justification . . . . . .. . 
+
+
+3.4 7Ps - Promotion
+
+
+the correct answer is given for question asked along with proper justification . . . . . .. . 
+
+
+3.5 7Ps - People
+
+
+the correct answer is given for question asked along with proper justification . . . . . .. . 
+
+
+3.6 7Ps - Physical Evidence
+
+
+the correct answer is given for question asked along with proper justification . . . . . .. . 
+
+
+3.7 7Ps - Process
+
+
+the correct answer is given for question asked along with proper justification . . . . . .. . 
+
+
+4. Case Study 4
+
+
+4.1 WHAT
+
+
+suitable question is written for the interrogation and entity of the Wal Store . . . . . . . . . .
+
+
+4.2 HOW
+
+
+suitable question is written for the interrogation and entity of the Wal Store . . . . . . . . . .
+
+
+4.3 WHO
+
+
+suitable question is written for the interrogation and entity of the Wal Store . . . . . . . . . .
+
+
+4.4 WHEN
+
+suitable question is written for the interrogation and entity of the Wal Store . . . . . . . . . .
+
+
+4.5 WHERE
+
+
+suitable question is written for the interrogation and entity of the Wal Store . . . . . . . . . .
+
+
+4.6 WHICH
+
+
+suitable question is written for the interrogation and entity of the Wal Store . . . . . . . . . .
+
+
+5. Readability of the Submitted Answer Copy
+
+5.1 Submission - Answer Copy
+
+submitted copy is in proper format, as asked during the submission . . . . . . . . 
+
+
