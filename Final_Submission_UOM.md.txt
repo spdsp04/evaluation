@@ -1,7 +1,7 @@
 
 # Final Submission
 
-# Robert H. Smith School of Business, University of Maryland 
+# Robert H. Smith School of Business, University of Arizona 
 
 1. Train Test Split and Data Preparation Task 1 (25%)
 
