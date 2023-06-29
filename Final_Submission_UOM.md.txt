@@ -1,0 +1,46 @@
+
+# Final Submission
+
+# Robert H. Smith School of Business, University of Maryland 
+
+1. Train Test Split and Data Preparation Task 1 (25%)
+
+1.1 A date is found that splits the total data into two sets one with 80% data and the other with 20% data
+
+a date is found which will split the data in two parts
+
+1.2 Create train and test set.
+
+train test split is done based on date . . . . .
+
+
+2. Model building Task 2 (40%)
+
+2.1 Find the percentage of null values in the train set.
+
+percentage of null values in checked. . . . . . .. 
+
+2.2 Create a ALS model using spark library
+
+the model is trained on the train data and recommendations are created on the test data 25 marks if the model is trained on the train data and predictions are made on train data
+
+
+3. Evaluating results Task 4 (20%)
+
+3.1 The ALS model is evaluated using RMSE metric
+
+model is evaluated on the test set using the Spark library
+
+
+4. Code Related tasks (10%)
+
+4.1 6 Template notebooks are used to solve all 6 tasks
+
+all tasks are solved 7 marks
+
+
+5.1 7. Final submission
+
+the submitted notebook is well written code is error free and comments are grammatically correct.
+
+
