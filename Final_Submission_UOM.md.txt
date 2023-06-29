@@ -22,8 +22,7 @@ percentage of null values in checked. . . . . . ..
 
 2.2 Create a ALS model using spark library
 
-the model is trained on the train data and recommendations are created on the test data 25 marks if the model is trained on the train data and predictions are made on train data
-
+the model is trained on the train data and recommendations are created on the test data.
 
 3. Evaluating results Task 4 (20%)
 
@@ -36,7 +35,7 @@ model is evaluated on the test set using the Spark library
 
 4.1 6 Template notebooks are used to solve all 6 tasks
 
-all tasks are solved 7 marks
+all tasks are solved 7 marks . . . . . . 
 
 
 5.1 7. Final submission
