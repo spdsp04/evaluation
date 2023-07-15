@@ -40,7 +40,7 @@ You have accurately trained a CNN model using dropout layer on the original trai
 
 2.3 Model building on rectified dataset
 
-You have accurately trained a CNN model using dropout layer for 30 epochs on the original training dataset. which are normalized to values between (0,1). You have written your findings after the model fit .
+You have accurately trained a CNN model using dropout layer on the original training dataset. which are normalized to values between (0,1). You have written your findings after the model fit .
 
 
 3. Coding Guidelines
