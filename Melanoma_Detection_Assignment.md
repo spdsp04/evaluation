@@ -32,16 +32,15 @@ You have correctly implemented the starter codes to add 500 images to each class
 
 2.1 Model building on raw dataset
 
-You have accurately trained a CNN model for 20 epochs on the original training dataset. which are normalized to values between (0,1). Also the student has written his/her findings after the model fit with evidence of overfitting/underfitting.
+You have accurately trained a CNN model on the original training dataset. which are normalized to values between (0,1). You have written your findings.
 
 2.2 Model building on augmented dataset
 
-	
+You have accurately trained a CNN model using dropout layer on the original training dataset, which are normalized to values between (0,1). you have writen your findings.
 
 2.3 Model building on rectified dataset
 
-You have accurately trained a CNN model using dropout layer for 30 epochs on the original training dataset. which are normalized to values between (0,1). Also the student has writen his/her findings after the model fit with evidence that the earlier found issues has been resolved.	
-
+You have accurately trained a CNN model using dropout layer for 30 epochs on the original training dataset. which are normalized to values between (0,1). You have written your findings after the model fit .
 
 
 3. Coding Guidelines
@@ -49,4 +48,4 @@ You have accurately trained a CNN model using dropout layer for 30 epochs on the
 
 3.1 Coding Guidelines - Good Practices
 
-there is a GitHub repository link containing a python file and a README.md file. And README.md file contains a brief description of the project. There is no one straightforward description.
+there is a GitHub repository link containing a python file and a README.md file. And README.md file contains a brief description of the project.
