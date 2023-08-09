@@ -1,0 +1,46 @@
+Most of the information is reflected . . . . . . . . .
+
+The broad direction of the visualizations is correct.  . . . . . . . . . 
+
+The charts are well labelled and attractive. . . . . . . . . . . . .
+
+The charts are well-labelled and the titles clearly portray the objective of the chart  . . . . . . . . .  .
+
+The charts are well described and convey insights easily.  . . . . . . . . 
+
+Neighborhood has been added as a filter/parameter . . . . . . . . . . . . .
+
+Most of the information is reflected.  . . . . . . .  .. .
+
+The broad direction of the visualizations is correct . . . . . . . . . . . . 
+
+Charts are well labelled and attractive. . . . . . . . . . . . . . 
+
+The charts are well-labelled and the titles clearly portray the objective of the chart. . . . . . . . . . . . . . . 
+
+The charts are well described and convey insights easily. . . . . . . . . . . . .
+
+Neighborhood has been added as a filter/parameter. . . . . . . . . . .
+
+All the subtasks have been solved correctly. . . . . . . . . . . 
+
+All the subtasks have been solved correctly. . . . . . . . . . . . . 
+
+The correct visualization has been used here. . . . . . . . . . . . . . . 
+
+All the subtasks have been solved correctly. . . . . . . . . . . . . . . 
+
+Lineplot has been correctly plotted.  . . . . . . . . . . .. . .
+
+Heatmap has been correctly plotted. . . . . . . . . . . . .
+
+Categorical Boxplot has been correctly plotted. . . . . . . . . . . . . 
+
+Most important insights are mentioned, . . . . . . . . . . 
+
+Overall format is structured. . . . . . . . . . . . . . . . 
+
+
+
+
+
