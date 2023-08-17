@@ -2,7 +2,7 @@ EDA analysis is done with visualization . . . . . . . . . . . . .
 
 data cleaning is done . . . . . . . . . . . 
 
-churn models are created Award . . . . . . . . . . . 
+churn models are created  . . . . . . . . . . . 
 
 PIs and sensitive attributes are identified correctly . . . . ..  . . . . .
 
