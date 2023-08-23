@@ -1,0 +1,36 @@
+You have Imported the images & created two separate datasets.
+You have input shape for image equal to (256, 256). 
+
+
+You have created a function to process train & test dataset with normalisation in range (-1,1).
+You have applied the random flipping for the dataset.
+You have AUTOTUNED while preprocessing the dataset.
+
+
+
+You have successfully used Instance Normalization.
+all layers (conv2d + instance norm + leaky relu) are used. 
+all layers (conv2DTranspose + Instance Norm + leaky relu + drop out) are present. 
+downsampling function is used for reducing the image dimensions to size (1,1,512). 
+upsampling function is used for increasing the image dimensions to (256,256,1).
+You have - stored skip connections for each downsampling layer - established skip connections for connecting upsampling and downsampling layers through concat layer.
+You have used downsampling function to reduce image dimensions to a patch of (6,6,1). 
+
+
+You have created all the loss functions successfully.
+You have created cycle loss and identity loss function successfully
+
+
+You have set the Adam optimizer successfully.
+You have initialized the checkpoint successfully.
+You have defined the function for training step. The learner should have translated the images using both Generator & discriminator to calculate the loss functions. Once done the learner should apply back the gradients to the optimizer. 
+
+
+the code is decently readable and well-commented.
+
+
+appropriate libraries are used to make the code concise
+
+
+
+
