@@ -1,0 +1,41 @@
+You have observed the different feature type present in the data and plotted the distribution of classes.
+
+You have correctly identified and removed useless variable(Time) by plotting scatter plots to observe the distribution of time & amount with class.
+
+
+You have not performed train & test split using stratified split.
+
+refer code for this code
+
+from sklearn.model_selection import train_test_split
+
+# Perform stratified train-test split
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42, stratify=y)
+
+
+you have checked if there is any skewness in the data and tried to mitigate it using Power transformer.
+
+
+You have build more than 3 models and has done GridSearch/Randomised searchCV to arrive at ideal set of parameters. 
+
+
+You have applied the best set of hyperparameters on the model to predict on the test dataset using the best evaluation metric
+
+
+You have handled the class imbalances using at least two of the techniques to balance both train and test datasets.
+
+
+You have build more than 3 models on each sampling technique and has done GridSearch/Randomised searchCV to arrive at ideal set of parameters. 
+
+
+You have applied the best set of hyperparameters on the model to predict on the test dataset using the best evaluation metric 
+
+
+the best model has an AUC score between 95-100 
+
+
+the code is decently readable and well-commented 
+
+
+appropriate libraries are used to make the code concise (rather than using long, verbose code) 
+
