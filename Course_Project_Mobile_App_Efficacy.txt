@@ -1,0 +1,33 @@
+all the categorical variables are converted from int to category.
+
+
+the correct plots/statisics have been created. . .. . . .. . . .. .
+
+the correct plots/statisics have been created. . .. . . .. . . .. .
+
+the correct plots/statisics have been created. . .. . . .. . . .. .
+
+the correct plots/statisics have been created. . .. . . .. . . .. .
+
+the correct plots/statisics have been created. . .. . . .. . . .. .
+
+the correct plots/statisics have been created. . .. . . .. . . .. .
+
+the statistical test has been performed. . .. . . .. . . .. .
+
+
+the treatment effect has been calculated.
+the confidence interval has been calculated.
+the hypothesis test has been performed.
+
+the treatment effect has been calculated.
+the confidence interval has been calculated.
+the hypothesis test has been performed.
+
+all three questions have been answered on the basis of sound reasoning derived from the analysis performed.
+Executive summary is clear, concise and easy to understand
+all the requisite details from the analysis is present to explain the decisions
+
+
+
+
