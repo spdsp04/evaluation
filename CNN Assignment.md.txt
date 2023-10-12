@@ -1,0 +1,21 @@
+You have defined the paths for both train & test images correctly . . . 
+
+You have correctly created train & validation dataset from the train directory created earlier. . . . . . . . . . . .
+
+You have visualized one instance of all the nine classes present in the dataset
+
+You have found the issue of overfitting in the model training and has correctly applied an augmentation strategy to add more images to the entire training dataset. 
+
+You have shown the class distribution of the training dataset and has correctly identified ... . . . . .
+
+You have correctly implemented the starter codes to add 500 images to each class using Augmentor library.
+
+You have accurately trained a CNN model for 20 epochs on the original training dataset. . . . .  . .
+
+You have accurately trained a CNN model using dropout layer for 20 epochs on the original training dataset, . . . . .  .
+
+You have accurately trained a CNN model using dropout layer for 30 epochs on the original training dataset.
+
+
+
+
