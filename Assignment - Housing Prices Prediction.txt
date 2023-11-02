@@ -1,0 +1,33 @@
+# Assignment - Housing Prices Prediction
+
+The histogram has been plotted with SalePrice . . . . . . ..  
+
+The correlations are presented in a table in descending/ascending order of correlation . . . . . .
+
+Good/insightful visualization has been made . . . . . .  ..
+
+Dummy variables has been created for categorical features
+70-30 train-test split has been done
+The numerical columns were scaled using StandardScaler()
+
+The optimum alpha was achieved using LassoCV
+Optimum depth was achieved using RegressionTrees
+The top 20 features were selected for training with optimum value of k
+
+All the models' RMSEs were displayed for both training and validation sets
+
+A scatterplot was made between residuals and true SalePrice ... . .. .. 
+
+The Lasso model was trained for the log of SalePrice, and the optimum alpha was found . . . ..
+
+The RMSEs were displayed for both train and test for the log transformed Dataset .. . . . . .
+
+The top 20 major drivers were displayed in descending/ascending order .. . . . .
+
+The RMSE values were displayed and a solid conclusion was written on which model performs the best. .. .
+
+The scatterplot and histogram has been plotted accurately along with some inference . . .... . ..
+
+
+
+
