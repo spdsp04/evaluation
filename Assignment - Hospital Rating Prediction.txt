@@ -1,0 +1,28 @@
+Assignment - Hospital Rating Prediction
+
+Descriptive statistics have been prepared for all the important metrics like Hospital Ratings and Measure Ratings
+
+Analysis has been done correctly  . . . . . . . . . . . . . . .
+
+Unnecessary demographic columns have been removed
+Dummy variables has been created for categorical features
+70-30 train-test split has been done with any random state
+Numerical columns were scaled using StandardScaler()
+
+Model was built correctly and proper hyperparameter techniques were used
+Model was built correctly and proper hyperparameter techniques were used
+Model was built correctly and proper hyperparameter techniques were used
+
+Accuracy scores for all the models have been calculated 
+Additional metric scores for all the models have been calculated
+
+Best model has been selected appropriately and used to calculate the ratings for the new hospitals in the not_yet_rated dataset 
+
+Recommendations are made with proper justifications
+
+Broad direction of the summary is correct and all key insights are documented
+
+Broad direction of the recommendations are in accordance to the final model
+
+
+
