@@ -1,0 +1,32 @@
+Building Effective Search Systems
+
+You have built all the 3 layers of the search system
+
+You have properly implemented the system design workflow with effective code and functions
+
+You have processed and parsed the PDF document(s) properly
+You have chosen and appropriate chunking strategy and has stored all chunks
+
+You have successfully performed the embeddings and stored them in a Chroma collection
+You have experimented performing embeddings with at least 2 different embedding models
+
+You have built the basic mechanism for performing semantic search against a user query
+
+You have built a cache mechanism
+
+You have implemented a re-ranking mechanism with cross-encoders
+You have extracted the top 3 results
+
+You have included elements of. a good prompt
+You have constructed a relevant and quality prompt
+
+You have properly implemented the generative layer
+
+You have shared all the required screenshots
+
+The quality of the semantic search results are good and relevant to the queries
+The quality of the generative search answer is good and relevant to the query
+
+You have provided comprehensive documentation for the project . . . . . . . .. .
+
+
