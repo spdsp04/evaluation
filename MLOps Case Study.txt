@@ -1,7 +1,4 @@
-MLOps Case Study
-
-
-learner has stated the KPI for the given problem . . . . . . . . . . . . . 
+learner has stated the KPI for the given problem . . . . . . . . . . . . 
 
 correctly explained advantage of MLOps system
 
@@ -9,5 +6,5 @@ Diagram is cleaned and self explained
 
 correctly explained the use of each tool
 
-correctly explained Workflow of the Solution
+correctly explained Workflow of the Solution. .. .  . .. . . . . . . . .  
 
