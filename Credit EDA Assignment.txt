@@ -1,0 +1,31 @@
+Credit EDA Assignment
+
+You have correctly identified and removed useless variables, i.e. variables having more than n% missing values where n should be reasonable number such as 40 or 50.
+
+You have correctly identified the values with which replace the missing values for columns having it
+
+You have find out outliers and given a justification of their findings for at least three numerical columns.
+
+You have checked the data types of variables and has converted variables to appropriate data types
+
+You have treated numeric variable as required (e.g. binning annual income into high, medium, low as done in the solution)
+
+You have divided the data into 2 categories with target = 0 and 1
+
+You have performed segmented univariate analysis with the proper explanation.
+
+You have find the correlation for top 10 variables for target = 0 and target = 1
+
+You have joined the previous application dataframe with the current dataframe. 
+
+You have performed bivariate analysis (it includes the target variable as well) with the proper explanation.
+
+Broad direction is correct. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Broad direction is correct. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+
+The code is decently readable and well-commented . . . . .. . . . . . . . . .  .
+
+Appropriate libraries are used to make the code concise (rather than using long, verbose code)
+
+
