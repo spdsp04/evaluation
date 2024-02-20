@@ -1,0 +1,48 @@
+data exploration is carried out using the given data . .. . . . . . . . . . . . . . . .. 
+
+Unnecessary variables are removed . . . . . . . ..  . .. . . . . .  . . . . . . . . .. .  . .. 
+
+item ratings have been generated based on user similarities
+news recommendations for a given user are generated based on user-based collaborative filtering along with their ids and titles
+already watched recommendations have been filtered out from the list.
+
+item similarity matrix have been generated based on similarity measure
+news recommendations similar to a given item are generated based on item-based collaborative filtering along with their ids and titles
+
+You have performed text processing to analyse keywords in the dataset
+You have generated TF-IDF scores to recommend similar items
+News recommendations similar to a given item are generated based on content-based filtering along with their ids and titles
+
+You have created compressed sparse matrices
+Train-test split is carried out appropriately to create train and test datasets
+Item and user recommendations are made using the ALS model 
+
+hybrid recommendation model has been created by normalizing the scores for content-based and collaborative filtering models.
+more than 02 hybrid combinations of different models are tried. 
+
+Model evaluation is done using the right metric . . .. . . . . . .... . .
+
+the submission file has a clear mention of all the steps in the jupyter notebook file and is made with proper comments explaining each step.
+
+the codes in the jupyter notebook file are concise and easy to understand . . . .. ..  .. . . . . .. . .. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
