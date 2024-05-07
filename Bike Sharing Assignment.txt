@@ -1,0 +1,52 @@
+Bike Sharing Assignment
+
+You have done good analysis and stated clear observations. . . .. . . . . . 
+
+the variable has been assigned string values correctly . . . . . . .. . . . . . . . . 
+
+all variables have been dummified correctly and the original columns have been dropped. 
+
+Random sampling has been done correctly and the test and train datasets have been created successfully
+
+Scaled all the predictor features correctly 
+You have done feature scaling after test-train split and not before it
+
+RFE is used to eliminate many of the features . .  . . .. . . . . . . . . . . . . ... . . . 
+
+Multicollinearity is measured using VIF and considered while building the model . . .. . . 
+
+Final model is not having more than 10 variables 
+The adjusted R-squared on the train dataset is on par with the ideal solution
+
+A histogram is plotted to check the normality of error terms
+
+Test set has been scaled and predictions have been made on the test set
+Only 'transform' has been used to scale the test set and not 'fit_transform'
+The r2_score of the test set is on par with the r2_score of the ideal solution
+
+The difference in the evaluation metric (R^2/adjusted R^2) of training and test dataset is not very large
+
+Code readability is good with appropriate indentations
+Comments are used throughout the code to explain commands/steps. Appropriate naming of variables has been done (all model names)
+Concise code and appropriate commands are used instead of lengthy ones
+
+the answer is correct, concise, and to the point. . . . . .  .. . . .. . . . . . . . ..  
+
+the answer is correct, concise, and to the point. . . . . .  .. . . .. . . . . . . . ..  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
