@@ -1,0 +1,76 @@
+All of the code is well-written and readable. . . . .. . . . . . . . . . . . . . . . . . . 
+
+The indentation is consistent in the whole code. . . . . . . . . . . . . . . . . . . . .
+
+Comments are present throughout the code and are crisp and descriptive.
+
+2.1
+The names and data types of parameters and return variables match the requirements.
+
+ over all 3 
+All steps covered as per requirement . . . .. . . . . . . . . . . . . . .. . . .
+
+4.3
+
+The names and data types of parameters and return variables match the requirements.
+
+5.1
+
+The names and data types of parameters and return variables match the requirements.
+
+The names and data types of parameters and return variables match the requirements.
+
+The names and data types of parameters and return variables match the requirements.
+
+
+6.1
+
+The names and data types of parameters and return variables match the requirements.
+
+The learner has trained the model multiple times and represented the performance summary using a data frame.
+
+The learner has trained the model multiple times and represented the performance summary using a data frame.
+
+
+7.1
+
+The number of trainable parameters in the optimal model is less than 500,000.
+
+The accuracy of the final optimal model on the validation data is more than 85%.
+
+The accuracy of the final optimal model on the hold-out test data set is more than 85%.
+
+
+
+8.1
+
+The whole report is written in a compact and to the point manner.
+
+The learner has used tables and graphs wherever they are applicable.
+
+All of the terms and phrases used by the learner are academically and technically sound.
+
+The language throughout the report is grammatically and semantically correct.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
