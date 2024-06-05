@@ -1,0 +1,30 @@
+Assignment: Sentiment Classification
+
+Tokenization, Stop word Removal, Stemming, Lemmatization, steps have been covered correctly . . . . . . . . . . . . . . . 
+
+Data has been split to train and validation sets
+TfidfVectorizer method has been loaded and fit on the train data using proper hyperparameters
+TFidfVectorizer method has been used to transform the train data
+TFidfVectorizer method has been used to transform the validation data
+The sentiments have been label encoded
+
+One of the conventional models listed in the stub notebook has been built
+
+Model's hyperparameters have been properly tuned to obtain the best performance
+
+Data set is properly converted from a sparse matrix to a sparse tensor
+
+FCFNN has been built upon the tf-idf data correctly
+
+Proper hyperparameter tuning has been done using batch_size, epochs, etc.
+Sufficient steps for taking care of overfitting and underfitting have been taken
+
+Measures like accuracy, precision, recall, etc. have been used to evalute the conventional ML model
+Necessary graphs have been built to identify the best model parameters for the conventional ML model
+
+Measures like accuracy,etc. have been used to evalute the deep learning model
+Necessary graphs have been built to identify the best model parameters for the deep learning model
+
+
+
+
