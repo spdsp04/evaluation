@@ -1,0 +1,72 @@
+# Lead Scoring Case Study
+
+
+most of the irrelevant columns are dropped  . . . . . . . . . . . . . .. . . . . . 
+
+all the columns with level 'Select' have been identified and an appropriate action has been taken for each of them.
+
+all of such columns have been dropped . . . . . . . . . . . . . . . . . . . . . . . ... . .. .
+
+the step has been done correctly until there are zero missing values in the data frame.
+
+the rows retained are 60-70%. . . . . . . . .. . . .. . . . . . . . . . . . . . . . . . . . . . .. .
+
+the dummy variables for all categorical variables have been created
+the original columns are dropped.
+
+both Scaling and Test-train split steps have been done. . . . . . . . . . . . .  . 
+
+You have used RFE as the first step to select 15-20 variables.
+the p-values are used appropriately to drop all the redundant variables.
+the VIFs are used appropriately to drop all the redundant variables.
+
+You have predicted the probabilities appropriately
+
+You have successfully identified the optimal cutoff point
+the optimal cutoff point is between required range.
+
+You have successfully predicted the classes based on the optimal cutoff
+
+all of these metrics are greater than required values.
+the metrics are within close range to each other.
+
+The test set has been scaled and predictions have been made on the test set
+all of these metrics are greater than required values.
+the metrics are within close range to each other.
+
+You have correctly identified top three variables from your model
+
+You have identified the top three categorical variables from your model correctly
+
+the answer is largely correct . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. .
+
+the answer is largely correct . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. .
+
+Presentation is concise and well structured . . . . . . . . ... . . . . . . . . .. . . .. .
+
+the recommendations make sense and relatable  to ground reality. . . . . .
+
+the report is well written, report explains what was done in the case study clearly and concisely.
+
+Code readability is good with appropriate indentations, comments are used and code is concise
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
