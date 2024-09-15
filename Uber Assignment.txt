@@ -1,0 +1,46 @@
+Uber Assignment
+
+
+You have corrected few dates issue like '/' and '-' .
+You have checked for duplicate values and NA Values.
+
+You have converted date column in to date -time format . . . .
+
+Request data is plotted by the hours variable . . . . . . ..
+
+You have split the time into various time slots and are appropriately matching the data.
+
+For the Morning and evening time slot, the number of trips are segregated by the trip locations and the correct problem is identified
+
+The demand and supply for morning time and from city is correct
+The demand and supply for evening time and from airport is correct
+
+Two issues of high cancellation in the morning and the unavailability of cars in the evening are discussed.
+
+Presentation is properly structured, with contents of slides being logically arranged
+All assumptions made are written in the presentation
+The final results are clearly written
+Logical recommendations are made
+
+Hourly basis and time slots basis break request is there with respect to morning, evening and Airport/City.. . . . .
+
+The code is working correctly
+All the parts of the code are neatly formatted
+
+Built in functions, use of libraries and using efficient codes rather than writing long codes
+
+All variables are properly named and comments are written to demonstrate the flow of the code
+
+
+
+
+
+
+
+
+
+
+
+
+
+
