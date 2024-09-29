@@ -9,7 +9,6 @@ You have designed the system with practical understanding of the capabilities an
 You have performed required steps as processing and parsing PDF, document(s) properly with appropriate chunking strategy and stored all chunks
 You have performed embeddings and stored them in a vector database followed by building basic mechanism for performing semantic search against user queries.
 
-
 You have clearly defined and initialized the agent, defined the appropriate tools and the agent type with appropriate Executor chain without any errors.
 You have cross checked by passed queries to evaluate the agent and the model outputs response.
 
